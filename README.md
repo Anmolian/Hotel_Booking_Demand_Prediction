@@ -1,4 +1,4 @@
-# Hotel_Demand_Prediction
+# Hotel_Booking_Demand_Prediction
 
 ## Technologies Used: GCP, Apache Spark, Random Forest
 
