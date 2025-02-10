@@ -1,4 +1,4 @@
-![Project Banner](https://raw.githubusercontent.com/Anmolian/BTC_Predictor/main/Cloud Computing.jpg)
+![Project Banner](https://raw.githubusercontent.com/Anmolian/Hotel_Booking_Demand_Prediction/main/Cloud Computing.jpg)
 # Hotel Booking Demand Prediction
 
 ## Technologies Used: GCP, Apache Spark, Docker, Hadoop
